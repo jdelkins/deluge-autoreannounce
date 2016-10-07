@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    AutoReannounce = deluge.plugins.autoreannounce:CorePlugin
+    [deluge.plugin.gtkui]
+    AutoReannounce = deluge.plugins.autoreannounce:GtkUIPlugin
+    [deluge.plugin.web]
+    AutoReannounce = deluge.plugins.autoreannounce:WebUIPlugin
+    

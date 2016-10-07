@@ -1,0 +1,16 @@
+setup.py
+AutoReannounce.egg-info/PKG-INFO
+AutoReannounce.egg-info/SOURCES.txt
+AutoReannounce.egg-info/dependency_links.txt
+AutoReannounce.egg-info/entry_points.txt
+AutoReannounce.egg-info/namespace_packages.txt
+AutoReannounce.egg-info/top_level.txt
+deluge/__init__.py
+deluge/plugins/__init__.py
+deluge/plugins/autoreannounce/__init__.py
+deluge/plugins/autoreannounce/common.py
+deluge/plugins/autoreannounce/core.py
+deluge/plugins/autoreannounce/gtkui.py
+deluge/plugins/autoreannounce/webui.py
+deluge/plugins/autoreannounce/data/autoreannounce.js
+deluge/plugins/autoreannounce/data/config.glade
